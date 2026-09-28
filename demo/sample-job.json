@@ -1,0 +1,10 @@
+{
+  "jobId": "job-sample-001",
+  "client": "0x0000000000000000000000000000000000000000",
+  "deviceId": "device-sample-001",
+  "ratePerUnit": 0,
+  "maxUnits": 0,
+  "escrowAmount": 0,
+  "status": "CREATED",
+  "createdAt": 0
+}

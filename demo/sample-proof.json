@@ -1,0 +1,12 @@
+{
+  "jobId": "job-sample-001",
+  "deviceId": "device-sample-001",
+  "timestamp": 0,
+  "proofType": "ECDSA_TELEMETRY",
+  "metrics": {
+    "unitsProduced": 0,
+    "durationSeconds": 0,
+    "energyConsumedKWh": 0.0
+  },
+  "signature": "0x"
+}
