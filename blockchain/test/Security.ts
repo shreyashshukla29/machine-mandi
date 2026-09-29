@@ -1,6 +1,6 @@
 import { expect } from "chai";
 import { ethers } from "hardhat";
-import { time, loadFixture } from "@nomicfoundation/hardhat-toolbox/network-helpers";
+import { time, loadFixture } from "@nomicfoundation/hardhat-network-helpers";
 
 describe("MachineMandi - Security & Invariant Suite", function () {
   async function deploySecurityFixture() {

@@ -1,6 +1,6 @@
 import { expect } from "chai";
 import { ethers } from "hardhat";
-import { time, loadFixture } from "@nomicfoundation/hardhat-toolbox/network-helpers";
+import { time, loadFixture } from "@nomicfoundation/hardhat-network-helpers";
 
 describe("MachineMandi - EIP-712 Device Proof Verification", function () {
   async function deployAndCreateJobFixture() {
